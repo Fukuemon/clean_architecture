@@ -1,0 +1,5 @@
+github.com/Fukuemon/go-pkg v0.0.0-20240717003119-63b1c0837d19 h1:QAPWxty6vRP03VWtHqh4JRnNQSNadI6/yoxLiT1lsRo=
+github.com/Fukuemon/go-pkg v0.0.0-20240717003119-63b1c0837d19/go.mod h1:nQ935ort5mpDa8kyZdYXbP27cgecvTEySCj11qQvSFg=
+github.com/oklog/ulid/v2 v2.1.0 h1:+9lhoxAP56we25tyYETBBY1YLA2SaoLvUFgrP2miPJU=
+github.com/oklog/ulid/v2 v2.1.0/go.mod h1:rcEKHmBBKfef9DhnvX7y1HZBYxjXb0cP5ExxNsTT1QQ=
+github.com/pborman/getopt v0.0.0-20170112200414-7148bc3a4c30/go.mod h1:85jBQOZwpVEaDAr341tbn15RS4fCAsIst0qp7i8ex1o=
