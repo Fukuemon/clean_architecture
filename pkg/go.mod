@@ -1,4 +1,4 @@
-module go-pkg
+module github.com/Fukuemon/go-pkg
 
 go 1.22.2
 
